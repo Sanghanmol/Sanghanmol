@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anmol Sangha</h1>
-<h3 align="center">Full Stack Developer | MERN | Django | TypeScript | Firebase | AWS</h3>
+<h3 align="center">Full Stack Developer | MERN | Django | TypeScript | AWS</h3>
 
 <p align="center">
-  💻 Building performant apps with clean code & real-world logic  
+  💻 Building performant apps with clean code & real-world logic <br> 
   🌍 Based in India | Open to Full-Time & Internship Opportunities  
 </p>
 
@@ -10,13 +10,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on scalable full-stack applications and feedback systems
+- 🎯 Focused on crafting high-performance, production-grade apps
 - 🌱 Learning system design, advanced TypeScript, and cloud architecture
 - 🚀 I’ve built apps used in **production**, including on WhatsApp, Firebase, and AWS
 - 🧠 I enjoy solving real-world problems with code and optimizing UX & backend logic
 - 💬 Ask me about anything related to **React, Node.js, Django, APIs, and Data Modeling**
-- 📫 Reach me at: [anmolsangha.dev@gmail.com](mailto:anmolsangha.dev@gmail.com)
-- 📄 Check out my [resume](#) *(add link if hosted)*
 
 ---
 
@@ -76,5 +74,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/anmol-sangha)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:anmolsangha.dev@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/anmol-sangha)
+- 📧 [anmolsangha36@gmail.com](mailto:anmolsangha36@gmail.com)
+
+---
